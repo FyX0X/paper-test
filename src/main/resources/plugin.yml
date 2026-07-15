@@ -8,3 +8,9 @@ api-version: '1.21.8'
 load: POSTWORLD
 
 authors: [ nitramnibus ]
+
+
+commands:
+  ping:
+    description: Ping-Pong
+    usage: "Usage: /<command>"

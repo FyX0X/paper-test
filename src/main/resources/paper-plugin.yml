@@ -1,0 +1,7 @@
+name: PaperTest
+version: '1.0'
+main: dev.nitramnibus.papertest.PaperTest
+description: Paper Test Plugin
+api-version: '1.21.8'
+bootstrapper: dev.nitramnibus.papertest.PaperTestBootstrap
+loader: dev.nitramnibus.papertest.PaperTestLoader
